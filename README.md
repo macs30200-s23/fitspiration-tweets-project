@@ -20,8 +20,10 @@ To replicate and produce the finding, people could run through `analyze.ipynb` u
 
 ## How to Cite
 To cite this replication materials repository, please use the following format:
+```
 Li, J. (2022). Fitspiration Tweets Project. GitHub. https://github.com/macs30200-s23/fitspiration-tweets-project
-
+```
+In BibTeX:
 ```
 @misc{jiayan2023,
   author = {Jiayan, Li},
