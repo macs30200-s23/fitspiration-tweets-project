@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ## Initial Findings
 After conducting sentiment analysis using VADER, I found that the mean compound score of sentiment is highest for late-pandemic fitpiration tweets, followed by pre-pandemic and then early-pandemic (as shown in the plot below). However, there is no statistically significant difference between the sentiment of the three groups, which was confirmed with an ANOVA test.
 
-![Alt Text](analysis/sentiment_score.png)
+![Alt Text](analysis/sentiment_scores.png)
 
 This finding directly answers my research question regarding changes in sentiment expressed in fitspiration tweets during these three periods (the other piece of the puzzle being the topics). There may be a shift in the overall sentiment expressed in fitspiration tweets over time, with a more positive sentiment being expressed during the late-pandemic period, with early-pandemic tweets being the least optimistic. However, based on this sample, we are unable to conclude that there is a statistically significant difference between the sentiment expressed in the three periods.
 
