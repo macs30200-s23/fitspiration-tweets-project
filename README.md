@@ -29,7 +29,7 @@ In BibTeX:
 }
 ```
 
-## Brief Description of Folders
+## Repository Structure
 1. `raw`: This directory contains codes collecting raw data from Twitter.
 2. `clean`: This directory contains codes pre-processing tweets.
 3. `analysis`: This directory contains codes analyzing data.
